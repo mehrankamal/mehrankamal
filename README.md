@@ -8,6 +8,7 @@
     <a href="mailto:mehrankamal@outlook.com"><img title="Outlook Email" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.coursera.org/user/3ec3ebe24ff5ed91f189ca735131638f"><img title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=fff"/></a>
     <a href="https://www.kaggle.com/mehrankamal"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>
+    <a href="https://codeforces.com/profile/mkbaloch"><img title="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=fff" /></a>
   </p>
 </div>
 
