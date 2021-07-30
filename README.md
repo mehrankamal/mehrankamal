@@ -15,7 +15,7 @@
 <div>
   <h3 align="left">Currently:</h3>
   <ul>
-    <li>SDE Intern, Backend Systems @<a href="https://securiti.ai/" target="_blank">Securiti.ai</a></li>
+    <li>SDE Intern - Backend Systems @<a href="https://securiti.ai/" target="_blank">Securiti.ai</a></li>
     <li>Bachelors of Science in Computer Science @<a href="http://khi.nu.edu.pk/" target="_blank">FAST-NUCES, Karachi</a></li>
     <li>Based in Karachi, Pakistan</li>
   </ul>
