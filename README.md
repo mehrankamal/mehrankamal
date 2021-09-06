@@ -15,11 +15,19 @@
 <div>
   <h3 align="left">Currently:</h3>
   <ul>
-    <li>SDE Intern - Backend Systems @<a href="https://securiti.ai/" target="_blank">Securiti.ai</a></li>
     <li>Bachelors of Science in Computer Science @<a href="http://khi.nu.edu.pk/" target="_blank">FAST-NUCES, Karachi</a></li>
     <li>Based in Karachi, Pakistan</li>
   </ul>
 </div>
+
+
+<div>
+  <h3 align="left">Previously:</h3>
+  <ul>
+    <li>SDE Intern - Backend Systems @<a href="https://securiti.ai/" target="_blank">Securiti.ai</a></li>
+  </ul>
+</div>
+
 
 <div>
   <h3 align="left">Interests:</h3>
@@ -89,7 +97,7 @@
 <!--
 **mehrankamal/mehrankamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Algorithms and Deeplearning
