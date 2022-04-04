@@ -1,4 +1,5 @@
-## Hello there! It's Mehran Kamal 👋
+## Hello there! 👋
+## Mehran Kamal - A work in progress 🚧
 
 <div>
   <h3 align="left">Profiles:</h4>
@@ -16,6 +17,7 @@
   <h3 align="left">Currently:</h3>
   <ul>
     <li>Bachelors of Science in Computer Science @<a href="http://khi.nu.edu.pk/" target="_blank">FAST-NUCES, Karachi</a></li>
+    <li>SWE Intern - Backend Systems @<a href="https://fenix.life/" targt="_blank">Fenix</a></li>
     <li>Based in Karachi, Pakistan</li>
   </ul>
 </div>
@@ -24,7 +26,8 @@
 <div>
   <h3 align="left">Previously:</h3>
   <ul>
-    <li>SDE Intern - Backend Systems @<a href="https://securiti.ai/" target="_blank">Securiti.ai</a></li>
+    <li>Student Teaching Assistant - Database Systems @<a href="https://nu.edu.pk/" target="_blank">FAST-NUCES, Karachi</a></li>
+    <li>SWE Intern - Backend Systems @<a href="https://securiti.ai/" target="_blank">Securiti.ai</a></li>
   </ul>
 </div>
 
@@ -32,9 +35,16 @@
 <div>
   <h3 align="left">Interests:</h3>
   <ul>
-    <li>Computer Science Research, particularly in Machine Learning Algorithms</li>
-    <li>Building Software Systems, mostly backend stuff</li>
-    <li>In a war between Machine Learning and Backend Systems (Good News: Both can go together)</li>
+    <li>Distributed systems</li>
+    <li>Algorithms and optimizations at scale</li>
+    <li>
+      Softwares that fascinates me:
+      <ul>
+        <li>Opearting Systems</li>
+        <li>Compilers</li>
+        <li>Database Systems</li>
+      </ul>
+    </li>
   </ul>
 </div>
 
