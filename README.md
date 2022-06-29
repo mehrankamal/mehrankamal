@@ -16,8 +16,7 @@
 <div>
   <h3 align="left">Currently:</h3>
   <ul>
-     <li>SWE-1 @<a href="https://simplifipay.com/" targt="_blank">SimpliFi</a></li>
-    
+    <li>SWE-1 @<a href="https://simplifipay.com/" targt="_blank">SimpliFi</a></li>
     <li>Based in Karachi, Pakistan</li>
   </ul>
 </div>
