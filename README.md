@@ -16,7 +16,7 @@
 <div>
   <h3 align="left">Currently:</h3>
   <ul>
-    <li>SWE @<a href="https://www.zarya.app/" targt="_blank">Zarya App</a></li>
+    <li>SWE - Full-stack @<a href="https://www.remoteinterview.io/" targt="_blank">Remoteinterview Inc.</a></li>
     <li>Based in Karachi, Pakistan</li>
   </ul>
 </div>
@@ -25,6 +25,7 @@
 <div>
   <h3 align="left">Previously:</h3>
   <ul>
+    <li>SWE - Full-stack @<a href="https://www.zarya.app/" targt="_blank">Zarya App</a></li>
     <li>SWE - Backend Systems @<a href="https://dastgyr.com/" targt="_blank">Dastgyr Technologies</a></li>
     <li>SWE - Infrastructure @<a href="https://simplifipay.com/" targt="_blank">SimpliFi</a></li>
     <li>Bachelors of Science in Computer Science @<a href="http://khi.nu.edu.pk/" target="_blank">FAST-NUCES, Karachi</a>, Class of 2022</li>
