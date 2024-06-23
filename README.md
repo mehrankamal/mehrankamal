@@ -1,7 +1,10 @@
-## Hello there! 👋
-## Mehran Kamal - A work in progress 🚧
+Hi, I'm Mehran, a Software Engineer based in Karachi, Pakistan.
 
-<div>
+Checkout my website: <a href="https://mehrankamal.com/" targt="_blank">mehrankamal.com</a>
+
+Say hi at [me[at]mehrankamal.com](mailto://me[at]mehrankamal.com). I would love to hear from you about anything.
+
+<!-- <div>
   <h3 align="left">Profiles:</h4>
   <p align="left">
      <a href="https://www.linkedin.com/in/mehrankamal36/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -11,14 +14,11 @@
     <a href="https://www.kaggle.com/mehrankamal"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>
     <a href="https://codeforces.com/profile/mkbaloch"><img title="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=fff" /></a>
   </p>
-</div>
+</div> -->
 
 <div>
   <h3 align="left">Currently:</h3>
-  <ul>
-    <li>SWE - Full-stack @<a href="https://www.remoteinterview.io/" targt="_blank">Remoteinterview Inc.</a></li>
-    <li>Based in Karachi, Pakistan</li>
-  </ul>
+  Product Engineer @<a href="https://www.remoteinterview.io/" targt="_blank">Remoteinterview Inc.</a>
 </div>
 
 
@@ -36,13 +36,13 @@
 </div>
 
 
-<div>
+<!-- <div>
   <h3 align="left">Interests:</h3>
   <ul>
     <li>Distributed systems</li>
     <li>Algorithms and optimizations at scale</li>
     <li>
-      Softwares that fascinates me:
+      Passionate about:
       <ul>
         <li>Opearting Systems</li>
         <li>Compilers</li>
@@ -105,4 +105,4 @@
       <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
     </a>
   </p>
-</div>
+</div> -->
